@@ -20,7 +20,7 @@ Dependencies:
 requests
          
 Uses:
-GrowattApi: https://github.com/Sjord/growatt_api_client
+GrowattApi: https://github.com/Sjord/growatt_api_client,
 included in this file
          
 
