@@ -4,8 +4,8 @@
 using the Growatt server data.  
 See example below.
 
-Reads the production data from the Growatt server (growatt.server.com)
-using the GrowattShinePhone api, stores them locally.
+Reads the production data from the Growatt server (http://growatt.server.com)  
+using the GrowattShinePhone api, stores them locally and incrementally.
 
 Runs on **Windows**, **Linux** (RaspBian, Ubuntu) and **Android** (using PyDroid3).
 
@@ -24,5 +24,6 @@ GrowattApi: https://github.com/Sjord/growatt_api_client,
 included in this file
 
 ![Solarview overview of 2019](./solarview2019.png)  
-Absence of data from February 12 until March 20 due to malfunctioning ShineWifi hardware.        
+*Absence of data from February 12 until March 20 due to malfunctioning ShineWifi hardware.*  
+
 
